@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.intro {
+    background-color: grey;
+}
+
+header {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.intro-pic {
+    background-color: grey;
+    max-width: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
+.startButton {
+    display: flex;
+    justify-content: center;
+}
+
+.question-view {
+    background-color: grey;
+
+}
+
+.next-button {
+    display: flex;
+    justify-content: center;
+}
+
+.restart-button {
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    justify-content: end;
+}
